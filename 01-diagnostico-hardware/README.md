@@ -33,7 +33,7 @@ Cada disco se evalúa respondiendo cuatro preguntas, en este orden:
 | 2. Dell OptiPlex 7400 AIO (laboratorio SENATI) | SK hynix BC711, 1 TB | PCIe 3.0 x4 | 100 % | Partición C: al 94 %; 346 apagados no seguros (30 % de los encendidos) | [PDF](informe-equipo2.pdf) |
 | 3. Pendiente | (HDD) | | | | |
 
-## Qué hice (paso a paso)
+## Actividades realizadas
 
 1. Inventario del equipo con `msinfo32`.
 2. Captura de CrystalDiskInfo en reposo y revisión de errores **antes** de cualquier prueba de carga.
