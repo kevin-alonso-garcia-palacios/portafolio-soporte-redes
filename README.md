@@ -14,7 +14,7 @@ Mi formación en Psicología me da una ventaja en la atención al usuario: expli
 
 | N.º | Proyecto | Habilidades que demuestra | Estado |
 |---|---|---|---|
-| 01 | [Diagnóstico de almacenamiento en equipos reales](01-diagnostico-hardware/) | Atributos SMART, CrystalDiskInfo, CrystalDiskMark, pruebas térmicas y de rendimiento, informes técnicos | En progreso (2 de 3 equipos) |
+| 01 | [Diagnóstico de almacenamiento en equipos](01-diagnostico-hardware/) | Atributos SMART, CrystalDiskInfo, CrystalDiskMark, pruebas térmicas y de rendimiento, informes técnicos | En progreso (2 de 3 equipos) |
 
 ## Contacto
 
