@@ -1,4 +1,4 @@
-# Proyecto 01: Diagnóstico de almacenamiento en equipos reales
+# Proyecto 01: Diagnóstico de almacenamiento en equipos
 
 **Contexto:** diagnóstico del estado de salud, temperatura y rendimiento de los discos de equipos reales, con informes técnicos que justifican cada recomendación con datos medidos. Es el procedimiento que se aplica cuando un usuario reporta lentitud, apagados o riesgo de perder información.
 
